@@ -1,0 +1,25 @@
+body{
+    background-image: url(./Pictures/home_background.jpg);
+    background-size: 2200px;
+}
+
+h1{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 80px;
+    margin-bottom:200px;
+}
+
+a{
+    color: white;
+    font-size: 36px;
+}
+
+li{
+    padding-left: 20px;
+    margin-bottom:100px;
+    margin-left: 100px;
+    list-style-type: ">";
+    color: white;
+    font-size: 36px;
+}
