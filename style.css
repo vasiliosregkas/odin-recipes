@@ -29,3 +29,27 @@
 ol li{
     margin-bottom: 20px;
 }
+
+.description{
+    text-align: left;
+    margin-top: 10vh;
+    font-size: 36px;
+}
+
+.title{
+    margin-top: 30vh;
+    font-size: 40px;
+}
+
+.picture{
+    width: 100vw;
+    height: 101vh;
+    padding: 0;
+    border: 0;
+}
+
+.Ingredients{
+    text-align: right;
+    margin-right: 5vw;
+    margin-bottom: 12vh;
+}
